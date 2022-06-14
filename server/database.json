@@ -1,0 +1,514 @@
+{
+  "characters": [
+    {
+      "id": 0,
+      "name": "est voluptatem quis",
+      "status": "dolorum dolor et",
+      "species": "nihil quia quia",
+      "gender": "praesentium harum sunt",
+      "origin": "non facere reiciendis",
+      "location": "ratione ut minima",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 1,
+      "name": "sit itaque quia",
+      "status": "officia hic exercitationem",
+      "species": "odio distinctio et",
+      "gender": "molestias voluptatem consequatur",
+      "origin": "dignissimos mollitia consequuntur",
+      "location": "voluptate corrupti laborum",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 2,
+      "name": "culpa quibusdam quae",
+      "status": "dolorem illo sequi",
+      "species": "voluptatum dolor hic",
+      "gender": "deleniti corporis dolores",
+      "origin": "non architecto voluptates",
+      "location": "laboriosam neque quasi",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 3,
+      "name": "dolorem voluptatem aut",
+      "status": "aut deserunt assumenda",
+      "species": "aperiam qui quo",
+      "gender": "quia ut officia",
+      "origin": "rerum qui at",
+      "location": "voluptas sunt enim",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 4,
+      "name": "officiis rem quaerat",
+      "status": "nobis nostrum cupiditate",
+      "species": "magnam omnis voluptas",
+      "gender": "et qui non",
+      "origin": "aut maiores ut",
+      "location": "ipsam temporibus nihil",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 5,
+      "name": "dolor quia error",
+      "status": "vero aperiam aliquam",
+      "species": "aliquam porro voluptate",
+      "gender": "sed quaerat ut",
+      "origin": "quia tempore iusto",
+      "location": "maiores maxime et",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 6,
+      "name": "modi molestiae quia",
+      "status": "molestiae dolore ut",
+      "species": "a ut architecto",
+      "gender": "vel hic tempore",
+      "origin": "eum voluptatem sint",
+      "location": "beatae quia ratione",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 7,
+      "name": "fuga est rem",
+      "status": "illo minima doloremque",
+      "species": "quo culpa numquam",
+      "gender": "dolorem hic impedit",
+      "origin": "repudiandae ut atque",
+      "location": "et nisi a",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 8,
+      "name": "et exercitationem et",
+      "status": "veritatis nostrum suscipit",
+      "species": "aut iste nisi",
+      "gender": "nesciunt quos facere",
+      "origin": "odit quod excepturi",
+      "location": "modi id maxime",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 9,
+      "name": "non unde molestiae",
+      "status": "repudiandae et alias",
+      "species": "ea reiciendis rerum",
+      "gender": "saepe repellendus ipsum",
+      "origin": "rem debitis aliquam",
+      "location": "nam facere quibusdam",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 10,
+      "name": "ut rerum suscipit",
+      "status": "iure aut iste",
+      "species": "et consequuntur et",
+      "gender": "incidunt ut quidem",
+      "origin": "sint qui molestiae",
+      "location": "perspiciatis saepe ea",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 11,
+      "name": "praesentium vel at",
+      "status": "quibusdam blanditiis hic",
+      "species": "similique sunt voluptas",
+      "gender": "accusantium unde tempore",
+      "origin": "sit non maxime",
+      "location": "totam eos eligendi",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 12,
+      "name": "ducimus aliquid voluptatem",
+      "status": "perspiciatis excepturi quia",
+      "species": "nam nihil ad",
+      "gender": "rerum quam culpa",
+      "origin": "necessitatibus sint omnis",
+      "location": "in temporibus omnis",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 13,
+      "name": "illum sit sed",
+      "status": "rerum similique placeat",
+      "species": "omnis accusamus dolor",
+      "gender": "neque qui temporibus",
+      "origin": "deleniti velit vel",
+      "location": "quidem sed dolorem",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 14,
+      "name": "impedit nam fugit",
+      "status": "aut rerum laudantium",
+      "species": "voluptatem quos officia",
+      "gender": "nihil eius voluptas",
+      "origin": "excepturi dolor minima",
+      "location": "sint non sed",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 15,
+      "name": "quo ut accusantium",
+      "status": "magni at beatae",
+      "species": "consequatur animi nam",
+      "gender": "illum dolore et",
+      "origin": "esse animi enim",
+      "location": "hic qui esse",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 16,
+      "name": "expedita reprehenderit deleniti",
+      "status": "fuga enim suscipit",
+      "species": "rerum eius omnis",
+      "gender": "repellendus doloribus aspernatur",
+      "origin": "enim sit quia",
+      "location": "omnis consequatur nihil",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 17,
+      "name": "sit odit sint",
+      "status": "vitae quia enim",
+      "species": "ea ut et",
+      "gender": "tempore architecto aliquid",
+      "origin": "labore nemo quia",
+      "location": "sint blanditiis reprehenderit",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 18,
+      "name": "vero non deleniti",
+      "status": "nulla dolore fugit",
+      "species": "repellendus repudiandae et",
+      "gender": "dicta labore impedit",
+      "origin": "debitis hic recusandae",
+      "location": "quas labore hic",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 19,
+      "name": "tempore quisquam quidem",
+      "status": "ullam quisquam incidunt",
+      "species": "quis cum ut",
+      "gender": "dolor cumque ipsam",
+      "origin": "tempore hic omnis",
+      "location": "veniam est corporis",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 20,
+      "name": "laborum consequuntur quia",
+      "status": "et cumque inventore",
+      "species": "quis eligendi ut",
+      "gender": "et rerum recusandae",
+      "origin": "quo sed officia",
+      "location": "voluptas ut sapiente",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 21,
+      "name": "veritatis modi exercitationem",
+      "status": "adipisci placeat ab",
+      "species": "a aspernatur debitis",
+      "gender": "suscipit soluta consequuntur",
+      "origin": "voluptatem molestiae aut",
+      "location": "quasi totam id",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 22,
+      "name": "quis vero vel",
+      "status": "vitae voluptatem et",
+      "species": "nihil debitis reiciendis",
+      "gender": "saepe vel perferendis",
+      "origin": "et voluptatem qui",
+      "location": "enim voluptas quia",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 23,
+      "name": "nesciunt quis similique",
+      "status": "harum voluptatum nisi",
+      "species": "mollitia consequuntur nesciunt",
+      "gender": "occaecati dolore accusantium",
+      "origin": "esse veritatis quam",
+      "location": "optio asperiores illum",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 24,
+      "name": "dolorum quae nam",
+      "status": "suscipit eveniet repudiandae",
+      "species": "inventore officiis quia",
+      "gender": "rem vitae unde",
+      "origin": "enim et ut",
+      "location": "pariatur exercitationem eveniet",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 25,
+      "name": "doloremque aut ipsam",
+      "status": "sed voluptatibus sed",
+      "species": "debitis voluptates dolorem",
+      "gender": "dicta nesciunt et",
+      "origin": "et odio in",
+      "location": "in qui ipsa",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 26,
+      "name": "repellat accusantium eum",
+      "status": "enim dolorum sint",
+      "species": "mollitia neque repellat",
+      "gender": "expedita accusantium error",
+      "origin": "sequi ad autem",
+      "location": "eligendi ab dicta",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 27,
+      "name": "incidunt ut atque",
+      "status": "quod nostrum rerum",
+      "species": "libero sit sint",
+      "gender": "sed mollitia consectetur",
+      "origin": "dolores eos ipsam",
+      "location": "doloribus vel rerum",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 28,
+      "name": "officiis alias vel",
+      "status": "dolores consequatur occaecati",
+      "species": "aliquid molestiae vitae",
+      "gender": "eum corporis qui",
+      "origin": "at error consequatur",
+      "location": "et nihil odio",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 29,
+      "name": "at quo non",
+      "status": "hic dolor occaecati",
+      "species": "optio porro aut",
+      "gender": "temporibus est est",
+      "origin": "commodi id ut",
+      "location": "aut est ut",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 30,
+      "name": "commodi quae laudantium",
+      "status": "esse eveniet est",
+      "species": "quas unde voluptas",
+      "gender": "aut odit error",
+      "origin": "voluptas repellendus earum",
+      "location": "sit omnis culpa",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 31,
+      "name": "repellat nihil cupiditate",
+      "status": "non qui corporis",
+      "species": "ipsam sed dolores",
+      "gender": "est sint perspiciatis",
+      "origin": "totam dolore laboriosam",
+      "location": "nostrum voluptatum voluptatem",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 32,
+      "name": "ipsum aut ut",
+      "status": "natus culpa quae",
+      "species": "in quo deserunt",
+      "gender": "doloribus quidem porro",
+      "origin": "aut sint nostrum",
+      "location": "facere suscipit et",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 33,
+      "name": "tempore illo eaque",
+      "status": "et nostrum illo",
+      "species": "molestiae velit veritatis",
+      "gender": "saepe sunt eaque",
+      "origin": "unde laboriosam architecto",
+      "location": "unde at ea",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 34,
+      "name": "ea consectetur expedita",
+      "status": "delectus iure saepe",
+      "species": "vel tempora molestiae",
+      "gender": "similique consequatur similique",
+      "origin": "odio dolor est",
+      "location": "eligendi odit cumque",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 35,
+      "name": "architecto maxime reiciendis",
+      "status": "perferendis excepturi quis",
+      "species": "eum cumque at",
+      "gender": "atque recusandae similique",
+      "origin": "quo qui rem",
+      "location": "dolores omnis maiores",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 36,
+      "name": "nulla libero sit",
+      "status": "deleniti quia et",
+      "species": "laborum sit sit",
+      "gender": "qui in quos",
+      "origin": "odit rem nihil",
+      "location": "perspiciatis quia velit",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 37,
+      "name": "debitis pariatur quo",
+      "status": "dolores unde id",
+      "species": "qui consequatur maiores",
+      "gender": "nesciunt voluptatibus sed",
+      "origin": "corrupti quibusdam autem",
+      "location": "nobis illo perferendis",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 38,
+      "name": "voluptatibus commodi et",
+      "status": "labore et voluptatibus",
+      "species": "modi facilis cumque",
+      "gender": "nisi eius veniam",
+      "origin": "quam aut eos",
+      "location": "non praesentium recusandae",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 39,
+      "name": "necessitatibus sit quis",
+      "status": "sunt minima impedit",
+      "species": "quibusdam aliquid facere",
+      "gender": "voluptatem deserunt consequatur",
+      "origin": "dolorem laborum sapiente",
+      "location": "non possimus reprehenderit",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 40,
+      "name": "consequuntur dolorem consequatur",
+      "status": "consequatur odio unde",
+      "species": "fugiat ex iste",
+      "gender": "et quis et",
+      "origin": "ipsa quasi neque",
+      "location": "non illum quaerat",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 41,
+      "name": "ad quaerat consequuntur",
+      "status": "voluptatum alias ea",
+      "species": "vero saepe veniam",
+      "gender": "fuga voluptate eius",
+      "origin": "magnam repellendus velit",
+      "location": "ipsa ducimus molestiae",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 42,
+      "name": "commodi blanditiis soluta",
+      "status": "provident aut ratione",
+      "species": "suscipit quod qui",
+      "gender": "voluptatibus distinctio eum",
+      "origin": "est minus quod",
+      "location": "rerum libero in",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 43,
+      "name": "omnis quibusdam amet",
+      "status": "iure saepe odio",
+      "species": "minima qui id",
+      "gender": "aliquam sed suscipit",
+      "origin": "expedita dolorum ut",
+      "location": "repellendus nam quasi",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 44,
+      "name": "magni voluptatem expedita",
+      "status": "sit quisquam necessitatibus",
+      "species": "quis nostrum est",
+      "gender": "aut earum autem",
+      "origin": "voluptas mollitia error",
+      "location": "repellat ea quae",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 45,
+      "name": "quaerat a optio",
+      "status": "suscipit non soluta",
+      "species": "soluta molestiae iste",
+      "gender": "aspernatur hic sit",
+      "origin": "perferendis molestias rerum",
+      "location": "expedita fugit voluptatem",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 46,
+      "name": "qui ad nostrum",
+      "status": "sunt eos et",
+      "species": "vel quam iusto",
+      "gender": "non non ut",
+      "origin": "corrupti eum nesciunt",
+      "location": "quis voluptate ipsum",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 47,
+      "name": "quidem facere necessitatibus",
+      "status": "enim et fugiat",
+      "species": "officia quam neque",
+      "gender": "aperiam hic tempora",
+      "origin": "quo dolores et",
+      "location": "iusto enim qui",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 48,
+      "name": "quaerat ut assumenda",
+      "status": "ut asperiores eveniet",
+      "species": "at voluptatem eius",
+      "gender": "cupiditate occaecati quo",
+      "origin": "impedit ipsam itaque",
+      "location": "eos fuga consectetur",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 49,
+      "name": "aliquam atque quis",
+      "status": "velit consequatur labore",
+      "species": "voluptas aut eos",
+      "gender": "qui assumenda debitis",
+      "origin": "esse est quis",
+      "location": "iusto nesciunt totam",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "name": "Cool Rick",
+      "status": "Alive",
+      "species": "Human",
+      "gender": "Male",
+      "origin": "Earth (K-83)",
+      "location": "Citadel of Ricks",
+      "image": "https://rickandmortyapi.com/api/character/avatar/72.jpeg",
+      "id": 50
+    }
+  ]
+}

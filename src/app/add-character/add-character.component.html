@@ -1,0 +1,101 @@
+<div class="container">
+  <div class="row">
+    <div class="col"></div>
+    <div class="col text-center">
+      <p class="h3 m-3">Add character</p>
+    </div>
+    <div class="col"></div>
+  </div>
+  <div class="row" *ngIf="!isCharacterAdded">
+    <div class="col">
+      <form>
+        <div class="mb-3">
+          <label for="name" class="form-label">Name:</label>
+          <input
+            type="text"
+            class="form-control"
+            id="name"
+            name="name"
+            [(ngModel)]="character.name"
+          />
+        </div>
+        <div class="mb-3">
+          <label for="status" class="form-label">Status:</label>
+          <input
+            type="text"
+            class="form-control"
+            id="status"
+            name="status"
+            [(ngModel)]="character.status"
+          />
+        </div>
+        <div class="mb-3">
+          <label for="species" class="form-label">Species:</label>
+          <input
+            type="text"
+            class="form-control"
+            id="species"
+            name="species"
+            [(ngModel)]="character.species"
+          />
+        </div>
+        <div class="mb-3">
+          <label for="gender" class="form-label">Gender:</label>
+          <input
+            type="text"
+            class="form-control"
+            id="gender"
+            name="gender"
+            [(ngModel)]="character.gender"
+          />
+        </div>
+        <div class="mb-3">
+          <label for="origin" class="form-label">Origin:</label>
+          <input
+            type="text"
+            class="form-control"
+            id="origin"
+            name="origin"
+            [(ngModel)]="character.origin"
+          />
+        </div>
+        <div class="mb-3">
+          <label for="location" class="form-label">Location:</label>
+          <input
+            type="text"
+            class="form-control"
+            id="location"
+            name="location"
+            [(ngModel)]="character.location"
+          />
+        </div>
+        <div class="mb-3">
+          <label for="image" class="form-label">Image:</label>
+          <input
+            type="text"
+            class="form-control"
+            id="image"
+            name="image"
+            [(ngModel)]="character.image"
+          />
+        </div>
+        <button class="btn btn-primary" (click)="addCharacter()">Submit</button>
+      </form>
+    </div>
+    <div class="col"></div>
+  </div>
+
+  <div class="row" *ngIf="isCharacterAdded">
+    <div class="col-sm"></div>
+    <div class="col-sm mt-4">
+      <div class="card">
+        <h5 class="card-header">Character added!</h5>
+        <div class="card-body">
+          <h6 class="card-title">Add another character?</h6>
+          <a class="btn btn-primary" (click)="newCharacter()">Add character</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm"></div>
+  </div>
+</div>

@@ -1,0 +1,5 @@
+<app-navbar></app-navbar>
+<p class="h1" *ngIf="isLoggedIn">ESTAS LOGEADO</p>
+<p class="h1" *ngIf="!isLoggedIn">NO ESTAS LOGEADO</p>
+<app-login *ngIf="!isLoggedIn"></app-login>
+<router-outlet></router-outlet>

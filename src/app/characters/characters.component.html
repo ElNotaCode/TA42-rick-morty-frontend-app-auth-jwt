@@ -1,0 +1,28 @@
+<!--TITULO-->
+<h1 class="text-center">Characters Rick & Morty!</h1>
+
+<!--LINEA CON  -->
+<div
+  class="row row-cols-1 row-cols-sm-2 m-5"
+  *ngIf="articulos != null; else espera"
+>
+  <div
+    class="card m-2"
+    style="width: 18rem"
+    *ngFor="let character of articulos"
+  >
+    <img
+      class="card-img-top mt-2"
+      src="{{ character.image }}"
+      alt="Card image cap of {{ character.name }}"
+    />
+    <div class="card-body">
+      <h5 class="card-title">{{ character.name }}</h5>
+      <p class="card-text"></p>
+      <a routerLink="/characterInfo/{{ character.id }}" class="btn btn-primary"
+        >See more</a
+      >
+    </div>
+  </div>
+</div>
+<ng-template #espera>Waiting for data...</ng-template>
